@@ -1,0 +1,14 @@
+# Backup & Output folders
+SWF_*/
+_export_*/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# OS & Temp files
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+Desktop.ini
